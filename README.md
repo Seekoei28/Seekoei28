@@ -42,10 +42,7 @@ apply for student assistant opportunities.
 ### 2. SKOOL-COMM
 A student-focused communication and collaboration project.
 
-### 3. Student Information App
-An application focused on managing student information.
 
----
 
 ## 📊 What I'm Working Towards
 
